@@ -12,7 +12,8 @@ introduction to linear algebra you will find.
 a clear, smart, and hilarious introduction to a very interesting topic.
 * [Stanford CS229 - Machine Learning](http://cs229.stanford.edu/materials.html) -
 a clear primer on machine learning.
-* [Princeton - Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1) - long but easily readable introduction to bitcoin
+* [Princeton - Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf?a=1) -
+long but easily readable introduction to bitcoin.
 
 ### Long Reads
 * [The Rise and Fall of Silk Road](https://www.wired.com/2015/04/silk-road-1/) - *"How a 29-year-old
@@ -25,9 +26,10 @@ government asset."*
 
 ### Startups
 * [Paul Graham Essays](http://www.paulgraham.com/articles.html) - various concise essays on
-startups. Personal favorites are [what microsoft is this the altair basic of?](http://www.paulgraham.com/altair.html)
-and [how to be an expert in a changing world](http://www.paulgraham.com/ecw.html), and
-[default alive or default dead](http://www.paulgraham.com/aord.html)
+startups. Personal favorites are:
+    - [what microsoft is this the altair basic of?](http://www.paulgraham.com/altair.html)
+    - [how to be an expert in a changing world](http://www.paulgraham.com/ecw.html)
+    - [default alive or default dead](http://www.paulgraham.com/aord.html)
 
 ### Personal finance
 
