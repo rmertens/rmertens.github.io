@@ -30,6 +30,6 @@ I focused on **machine learning** (inspired by [Andrew Ng's Machine Learning cou
 In my free time, I enjoy long distance running and travelling.
 
 ### Contact me
-Feel free to reach out to me if you would like to grab a coffee.
+Feel free to reach out to me if you would like to talk and / or grab a coffee.
 
 [mertens.ai.raf@gmail.com](mailto:mertens.ai.raf@gmail.com)

@@ -4,8 +4,7 @@ title: Quick Links
 ---
 
 I really enjoy [Greg Linden](https://glinden.blogspot.com)'s +- bi-monthly quick links. Here's my
-personal version:
-
+first version of things that caught my attention recently:
 * Coinbase, one of the largest cryptocurrency exchanges, discusses their security.
 This includes *"special machines in the office that are in a locked room, that you only use for SSH access"*
 and cameras to monitor who accesses these machines.
@@ -20,7 +19,7 @@ Their starter kit is also my current frontend development setup (React, Babel, W
 [Link](https://backchannel.com/the-uncanny-mind-that-built-ethereum-9b448dc9d14f#.uiqw2euxw)
 * If you want to know someone's personality, just ask how they perceive others.
 *"The more frequently people rated others as kindhearted, happy, emotionally stable, or courteous,
-the more likely they were to rate themselves as having these traits, and the more likely outside evaluators were to agree"*
+the more likely they were to rate themselves as having these traits, and the more likely outside evaluators were to agree"*.
 [Link](http://www.inc.com/jessica-stillman/how-to-read-someone-s-personality-just-ask-this-1-question.html)
 * Minecraft has captured a generation and taught millions of kids to be creative and
 solve difficult problems.

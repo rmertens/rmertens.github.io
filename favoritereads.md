@@ -32,6 +32,9 @@ startups. Personal favorites are:
     - [default alive or default dead](http://www.paulgraham.com/aord.html)
 
 ### Personal finance
+* [Bogleheads Investment Philosophy](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy) -
+investment advice is a shady world. Bogleheads provides clarity. Also contains
+country specific pages, e.g. for [Belgium](https://www.bogleheads.org/wiki/Investing_from_Belgium).
 
 ### News
 * [Hacker News](https://news.ycombinator.com/)
