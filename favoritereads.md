@@ -22,7 +22,7 @@ idealist built a global drug bazaar and became a murderous kingpin"*
 government asset."*
 
 ### Programming etc
-*
+* [Understanding CSRF, the video tutorial edition](https://www.troyhunt.com/understanding-csrf-video-tutorial/)
 
 ### Startups
 * [Paul Graham Essays](http://www.paulgraham.com/articles.html) - various concise essays on
