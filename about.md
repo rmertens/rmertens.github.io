@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+### Short bio
+
 As of June 2016, I am working primarily a personal finance project
 (a blog post with more details will follow). Besides that, I work on
 [CrazyGames.com](https://www.crazygames.com). CrazyGames is a casual games
@@ -23,11 +25,11 @@ with a focus in statistics.
 
 Before that, I studied **Computer Science** and **Electrical Engineering** at
 Stanford University, where I won the Terman Award.
-I focused on **machine learning** and **convex optimization**. I transferred to Stanford after 1 academic year at KU Leuven.
+I focused on **machine learning** (inspired by [Andrew Ng's Machine Learning course](http://cs229.stanford.edu/)) and **convex optimization** (inspired by Stephen Boyd and Carlos Fernandez-Granda). I transferred to Stanford after 1 academic year at KU Leuven.
 
 In my free time, I enjoy long distance running and travelling.
 
-Feel free to reach out to me if you would like to grab a coffee.
 ### Contact me
+Feel free to reach out to me if you would like to grab a coffee.
 
 [mertens.ai.raf@gmail.com](mailto:mertens.ai.raf@gmail.com)
