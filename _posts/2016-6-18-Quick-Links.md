@@ -5,6 +5,7 @@ title: Quick Links
 
 I really enjoy [Greg Linden](https://glinden.blogspot.com)'s +- bi-monthly quick links. Here's my
 first version of things that caught my attention recently:
+
 * Coinbase, one of the largest cryptocurrency exchanges, discusses their security.
 This includes *"special machines in the office that are in a locked room, that you only use for SSH access"*
 and cameras to monitor who accesses these machines.
