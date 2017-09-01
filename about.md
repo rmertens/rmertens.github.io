@@ -6,10 +6,9 @@ permalink: /about/
 
 ### Short bio
 
-As of June 2016, I am working primarily on a personal finance project
-(a blog post with more details will follow). Besides that, I work on
+As of September 2017, I am working primarily on 
 [CrazyGames.com](https://www.crazygames.com). CrazyGames is a casual games
-portal with about 3 million monthly visits. There are also
+platform with over 5 million monthly visits. There are also
 [Dutch](https://www.speelspelletjes.nl),
 [Spanish](https://www.1001juegos.com), and
 [Italian](https://www.gioca.re) versions.
