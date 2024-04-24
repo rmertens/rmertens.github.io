@@ -7,15 +7,11 @@ permalink: /about/
 ### Short bio
 
 As of September 2017, I am working primarily on 
-[CrazyGames.com](https://www.crazygames.com). CrazyGames is a casual games
-platform with over 5 million monthly visits. There are also
-[Dutch](https://www.speelspelletjes.nl),
-[Spanish](https://www.1001juegos.com), and
-[Italian](https://www.gioca.re) versions.
+[CrazyGames.com](https://www.crazygames.com). My goal is to build CrazyGames into the global web gaming platform. We serve [games](https://www.crazygames.com) in about 25 languages, including: [jeux](https://www.crazygames.fr) (in French), [spiele](https://de.crazygames.com) (in German), and [giochi](https://it.crazygames.com) (in Italian).
 
 Previously I worked as a software engineer at
 [Thought Machine](https://www.thoughtmachine.net/) from the summer of 2015
-until March 2016, initially on the machine learning and later on the core banking platform (both
+until March 2016, initially on the machine learning and later on the 3-member founding team of the core banking platform Vault (both
 front-end and back-end).
 
 In the 2014-2015 academic year, I did
